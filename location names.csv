@@ -1,0 +1,230 @@
+,locationID,precise location
+0,0,Adjala-Tosorontio
+1,1,Ajax 
+2,2,Alfred and Plantagenet 
+3,3,Algoma North part
+4,4,Alnwick/Haldimand 
+5,5,Amherstburg 
+6,6,Arnprior 
+7,7,Arran-Elderslie 
+8,8,Ashfield-Colborne-Wawanosh 
+9,9,Augusta
+10,10,Aurora 
+11,11,Aylmer 
+12,12,Barrie 
+13,13,Bayham
+14,14,Beckwith 
+15,15,Belleville 
+16,16,Blandford-Blenheim
+17,17,Bluewater 
+18,18,Bracebridge 
+19,19,Bradford West Gwillimbury 
+20,20,Brampton 
+21,21,Brant 
+22,22,Brantford 
+23,23,Brighton 
+24,24,Brock 
+25,25,Brockton 
+26,26,Brockville 
+27,27,Burlington 
+28,28,Caledon 
+29,29,Cambridge 
+30,30,Carleton Place 
+31,31,Cavan Monaghan 
+32,32,Central Elgin 
+33,33,Central Huron 
+34,34,Centre Wellington 
+35,35,Champlain 
+36,36,Chatham-Kent 
+37,37,Chatsworth 
+38,38,Clarence-Rockland 
+39,39,Clarington 
+40,40,Clearview 
+41,41,Cobourg 
+42,42,Cochrane 
+43,43,Collingwood 
+44,44,Cornwall 
+45,45,Cramahe
+46,46,Douro-Dummer
+47,47,Drummond/North Elmsley 
+48,48,Dryden 
+49,49,Dysart et al 
+50,50,East Gwillimbury 
+51,51,East Zorra-Tavistock 
+52,52,Edwardsburgh/Cardinal 
+53,53,Elizabethtown-Kitley 
+54,54,Elliot Lake 
+55,55,Erin 
+56,56,Espanola 
+57,57,Essa 
+58,58,Essex 
+59,59,Fort Erie 
+60,60,Fort Frances 
+61,61,Gananoque 
+62,62,Georgian Bluffs
+63,63,Georgina 
+64,64,Goderich 
+65,65,Gravenhurst 
+66,66,Greater Napanee 
+67,67,Greater Sudbury / Grand Sudbury 
+68,68,Grey Highlands 
+69,69,Grimsby 
+70,70,Guelph 
+71,71,Guelph/Eramosa 
+72,72,Haldimand County 
+73,73,Halton Hills 
+74,74,Hamilton city
+75,75,Hamilton town
+76,76,Hanover 
+77,77,Havelock-Belmont-Methuen
+78,78,Hawkesbury 
+79,79,Huntsville 
+80,80,Huron East 
+81,81,Huron-Kinloss 
+82,82,Ingersoll 
+83,83,Innisfil 
+84,84,Kapuskasing 
+85,85,Kawartha Lakes
+86,86,Kenora city
+87,87,Kincardine 
+88,88,King 
+89,89,Kingston 
+90,90,Kingsville 
+91,91,Kirkland Lake 
+92,92,Kitchener 
+93,93,Lakeshore 
+94,94,Lambton Shores 
+95,95,Lanark Highlands
+96,96,LaSalle 
+97,97,Laurentian Valley
+98,98,Leamington 
+99,99,Leeds and the Thousand Islands 
+100,100,Lincoln 
+101,101,London 
+102,102,Loyalist 
+103,103,Lucan Biddulph 
+104,104,Malahide 
+105,105,Manitoulin
+106,106,Mapleton 
+107,107,Markham
+108,108,McNab/Braeside 
+109,109,Meaford
+110,110,Middlesex Centre 
+111,111,Midland 
+112,112,Milton 
+113,113,Minden Hills 
+114,114,Minto 
+115,115,Mississauga 
+116,116,Mississippi Mills 
+117,117,Mono 
+118,118,Muskoka Lakes 
+119,119,New Tecumseth 
+120,120,Newmarket 
+121,121,Niagara Falls 
+122,122,Niagara-on-the-Lake 
+123,123,Norfolk County 
+124,124,North Bay 
+125,125,North Dumfries
+126,126,North Dundas 
+127,127,North Glengarry
+128,128,North Grenville 
+129,129,North Huron 
+130,130,North Middlesex 
+131,131,North Perth 
+132,132,North Stormont
+133,133,Norwich 
+134,134,Oakville 
+135,135,Oliver Paipoonge 
+136,136,Orangeville 
+137,137,Orillia 
+138,138,Oro-Medonte 
+139,139,Oshawa 
+140,140,Otonabee-South Monaghan 
+141,141,Ottawa 
+142,142,Owen Sound 
+143,143,Pelham 
+144,144,Pembroke 
+145,145,Penetanguishene 
+146,146,Perth East 
+147,147,Perth Town
+148,148,Petawawa 
+149,149,Peterborough 
+150,150,Petrolia 
+151,151,Pickering 
+152,152,Plympton-Wyoming 
+153,153,Port Colborne 
+154,154,Port Hope 
+155,155,Prince Edward County 
+156,156,Puslinch
+157,157,Quinte West 
+158,158,Ramara 
+159,159,Renfrew 
+160,160,Richmond Hill 
+161,161,Rideau Lakes 
+162,162,Russell 
+163,163,Sarnia 
+164,164,Saugeen Shores 
+165,165,Sault Ste. Marie 
+166,166,Scugog 
+167,167,Selwyn 
+168,168,Severn 
+169,169,Shelburne 
+170,170,Sioux Lookout 
+171,171,Smiths Falls 
+172,172,South Bruce Peninsula 
+173,173,South Bruce 
+174,174,South Dundas 
+175,175,South Frontenac 
+176,176,South Glengarry 
+177,177,South Huron 
+178,178,South Stormont 
+179,179,Southgate 
+180,180,Southwest Middlesex
+181,181,South-West Oxford 
+182,182,Springwater 
+183,183,St. Catharines 
+184,184,St. Clair 
+185,185,St. Marys 
+186,186,St. Thomas 
+187,187,Stirling-Rawdon 
+188,188,Stone Mills 
+189,189,Stratford 
+190,190,Strathroy-Caradoc 
+191,191,Tay
+192,192,Tay Valley 
+193,193,Tecumseh 
+194,194,Temiskaming Shores 
+195,195,Thames Centre 
+196,196,The Blue Mountains 
+197,197,The Nation / La Nation 
+198,198,Thorold 
+199,199,Thunder Bay 
+200,200,Thunder Bay Unorganized
+201,201,Tillsonburg 
+202,202,Timmins 
+203,203,Tiny
+204,204,Toronto 
+205,205,Trent Hills 
+206,206,Trent Lakes
+207,207,Tweed 
+208,208,Uxbridge 
+209,209,Vaughan 
+210,210,Wainfleet 
+211,211,Wasaga Beach 
+212,212,Waterloo 
+213,213,Welland 
+214,214,Wellesley
+215,215,Wellington North 
+216,216,West Elgin 
+217,217,West Grey 
+218,218,West Lincoln 
+219,219,West Nipissing
+220,220,West Perth 
+221,221,Whitby 
+222,222,Whitchurch-Stouffville 
+223,223,Whitewater Region 
+224,224,Wilmot 
+225,225,Windsor 
+226,226,Woodstock 
+227,227,Woolwich 
+228,228,Zorra
