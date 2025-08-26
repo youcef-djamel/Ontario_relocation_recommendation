@@ -7,8 +7,8 @@ from sklearn.ensemble import RandomForestRegressor
 st.title('Location recommendation')
 
 
-user_profiles = pd.read_csv("C:\\Users\\User\\Desktop\\user profiles.csv")
-cities = pd.read_csv("C:\\Users\\User\\Desktop\cities dataset.csv")
+user_profiles = pd.read_csv("user profiles.csv")
+cities = pd.read_csv("cities dataset.csv")
 
 minmax = MinMaxScaler()
 cities_norm = minmax.fit_transform(cities)
@@ -74,10 +74,11 @@ combined['score'] = forest.predict(combined)
 
 recomendation = combined['score'].sort_values(ascending=False).head()
 
-locations = pd.read_csv("C:\\Users\\User\\Desktop\\location names.csv")
+locations = pd.read_csv("location names.csv")
 
 for i in recomendation.index:
   st.write("top 5 matches for you are:", locations.loc[i, "precise location"])
+
 
 
 
