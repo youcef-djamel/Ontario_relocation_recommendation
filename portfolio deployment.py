@@ -73,10 +73,11 @@ combined = x.merge(user_df, how='cross')
 if (st.button("Find best locations")):
     combined['score'] = forest.predict(combined)
     recomendation = combined['score'].sort_values(ascending=False).head()
-    locations = pd.read_csv("D:\\Self tuition\\GoMyCode\\streamlit\\portfolio\\location names.csv")
+    locations = pd.read_csv("location names.csv")
     st.write("top 5 matches for you are:")
     for i in recomendation.index:
         st.write(locations.loc[i, "precise location"])
+
 
 
 
