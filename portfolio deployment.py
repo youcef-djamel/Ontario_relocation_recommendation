@@ -70,14 +70,14 @@ user_df = pd.DataFrame([user_pref])
 x = cities.drop(['Immigrants','Crime severity index', 'Housing cost index', 'Transportation cost index', 'Employment rate', 'Postsecondary certificate or diploma or degree', 'Population density per square kilometre', 'Commute by Public transit'], axis=1)
 combined = x.merge(user_df, how='cross')
 
-combined['score'] = forest.predict(combined)
 
-recomendation = combined['score'].sort_values(ascending=False).head()
+if (st.button("Find best locations")):
+    combined['score'] = forest.predict(combined)
+    recomendation = combined['score'].sort_values(ascending=False).head()
+    locations = pd.read_csv("D:\\Self tuition\\GoMyCode\\streamlit\\portfolio\\location names.csv")
+    for i in recomendation.index:
+        st.write("top 5 matches for you are:", locations.loc[i, "precise location"])
 
-locations = pd.read_csv("location names.csv")
-
-for i in recomendation.index:
-  st.write("top 5 matches for you are:", locations.loc[i, "precise location"])
 
 
 
